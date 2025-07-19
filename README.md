@@ -38,4 +38,7 @@ This project was created to practice JavaScript fundamentals like DOM manipulati
 - CSS3
 - JavaScript (Vanilla)
 
+---
 
+## 👩‍💻 Made by Alexia Moreno
+Third-year IT student learning web development & AI ✨  
